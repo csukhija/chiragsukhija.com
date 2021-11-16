@@ -1,0 +1,17 @@
+[16/Nov/2021:14:55:59] (I): WordPress Instance Info:
+[16/Nov/2021:14:55:59] (I): Home URL : https://www.chiragsukhija.com
+[16/Nov/2021:14:55:59] (I): Site URL : https://www.chiragsukhija.com
+[16/Nov/2021:14:55:59] (I): WordPress Version : 5.8.2
+[16/Nov/2021:14:55:59] (I): Onboarding Version : 1.1.18
+[16/Nov/2021:14:55:59] (I): Multisite : No
+[16/Nov/2021:14:55:59] (I): Server Info : Apache/2.4.41 (Ubuntu)
+[16/Nov/2021:14:55:59] (I): PHP Version : 7.4.3
+[16/Nov/2021:14:55:59] (I): HTTPS : Yes
+[16/Nov/2021:14:55:59] (I): PHP Max Execution Time : 30
+[16/Nov/2021:14:55:59] (I): PHP Max Input Vars : 1000
+[16/Nov/2021:14:55:59] (I): Max Upload Size : 2097152
+[16/Nov/2021:14:55:59] (I): Plugins:
+[16/Nov/2021:14:55:59] (I): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.7.1 (ThemeIsle)
+[16/Nov/2021:14:55:59] (I): [PLUGIN] Templates Patterns Collection : v1.1.18 (ThemeIsle)
+[16/Nov/2021:14:55:59] (I): [PLUGIN] WP Mail SMTP : v3.2.0 (WPForms)
+[16/Nov/2021:14:55:59] (I): [PLUGIN] WPForms Lite : v1.7.1.1 (WPForms)
